@@ -1,0 +1,19 @@
+body {
+    background-size:cover;
+}
+
+#start_button, #number_of_objects, #status, #obj {
+    font-size: 14px;
+}
+canvas {
+    border:2px solid white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px white;
+}
+.top {
+    background-color:red;
+    top:0;
+    color:white;
+
+}
